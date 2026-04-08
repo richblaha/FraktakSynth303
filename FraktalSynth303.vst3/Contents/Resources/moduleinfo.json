@@ -1,0 +1,48 @@
+{
+  "Name": "FraktalSynth303",
+  "Version": "1.0.0",
+  "Factory Info": {
+    "Vendor": "RichsPlugins",
+    "URL": "https://richblaha.com",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB4D616E7545726737",
+      "Category": "Audio Module Class",
+      "Name": "FraktalSynth303",
+      "Vendor": "RichsPlugins",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD4D616E7545726737",
+      "Category": "Component Controller Class",
+      "Name": "FraktalSynth303",
+      "Vendor": "RichsPlugins",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}

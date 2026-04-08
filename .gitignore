@@ -1,0 +1,4 @@
+Builds/
+build/
+DerivedData/
+*.a
