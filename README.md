@@ -66,6 +66,24 @@ Dependencies: JUCE only. No third-party libraries.
 
 ---
 
+## Presets (Reaper)
+
+FraktalSynth 303 does not yet include an internal preset system.  
+Presets can be saved and loaded using your DAW.
+
+### Loading included presets (.RPL) in Reaper
+
+1. Load FraktalSynth 303 in Reaper  
+2. Open the plugin window  
+3. Click the **"+" (preset menu)** at the top  
+4. Select **Import preset library...**  
+5. Choose the included `.RPL` file  
+
+The presets will now appear in the preset menu.
+
+Note: Presets are managed by Reaper, not by the plugin itself.
+
+---
 ## License
 
 This project is licensed under the **GNU General Public License v3.0**.
