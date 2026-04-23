@@ -1,0 +1,40 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+
+  For the exact and complete license text, see:
+  https://www.gnu.org/licenses/gpl-3.0.txt
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+--------------------------------------------------------------------------------
+
+ADDITIONAL NOTE – JUCE FRAMEWORK:
+
+This plugin is built with the JUCE framework (https://juce.com).
+JUCE is used here under the GNU GPL v3 (open-source tier).
+As required by the GPL, the full source code of this plugin is available at:
+
+  https://github.com/richblaha/FraktakSynth303
+
+If you distribute compiled binaries of this plugin, you must make the
+source code available under the same GPL v3 terms.
